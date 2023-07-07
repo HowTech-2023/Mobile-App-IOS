@@ -4,7 +4,7 @@
 ---
 ## Description
 
-This is the IOS app made with xcode. 
+This is the IOS app made with [Anubias](https://github.com/4xmen/anubias). 
 ---
 **Supported platforms**
 
