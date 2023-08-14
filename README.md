@@ -4,7 +4,8 @@
 ---
 ## Description
 
-This is the IOS app made with [Anubias](https://github.com/4xmen/anubias). 
+This is the IOS app made with Xcode. 
+Backend was made with [APPWRITE](https://github.com/appwrite/appwrite)
 ---
 **Supported platforms**
 
@@ -18,14 +19,25 @@ This is the IOS app made with [Anubias](https://github.com/4xmen/anubias).
 
 [Download](https://github.com/HowTech-2023/Mobile-App-IOS/releases/latest)
 
-Mobile app for the  _____ app  ✨📱
+Mobile app for the  **FitPlanPro** app  ✨📱
 ---
 ## Features
 
-- Feature 1: Description of feature 1. ✅
-- Feature 2: Description of feature 2. 🚀
-- Feature 3: Description of feature 3. ⚡️
-- ...
+- Goal Setting: Upon sign-up, the user can input their fitness goals, such as improving flexibility, building strength, or enhancing endurance. The app will also consider factors like age, fitness level, and any specific sports requirements.
+
+Personalised Workout Plans: FitPlanPro will generate personalized workout plans based on the user's goals and fitness level. The plans will include a combination of stretches and exercises relevant to the user's chosen sports or fitness preferences.
+
+Exercise Library: The app will offer an extensive exercise library with detailed instructions, images, and videos demonstrating each stretch and exercise. Users can explore and learn the proper techniques.
+
+Custom Workouts: In addition to the pre-designed plans, users can create their custom workouts by selecting specific stretches and exercises from the library.
+
+Progress Tracking: FitPlanPro will have a progress tracker that records the user's workout activities, achievements, and improvements. This data will help users stay motivated and track their performance over time.
+
+Reminder and Scheduling: The app will provide reminders for scheduled workouts, ensuring that users stay consistent in their fitness routines.
+
+Nutrition and Hydration Tips: To complement the workout plans, the app can provide nutrition and hydration tips to optimise the user's performance and overall health.
+
+(Not compulsory) Offline Access: Allow users to download workout plans and videos for offline access, ensuring they can follow their routines even without an internet connection
 ---
 ## Screenshots
 
@@ -38,13 +50,15 @@ Mobile app for the  _____ app  ✨📱
 ## Installation
 ---
 Instructions on how to install and set up the app. 📥
-You can install from the app store
+
+You can install from the App store. 
 
 
 ---
 ## Usage
 
 Guidelines on how to use the app and its various features. 📚
+
 
 ## Configuration
 
